@@ -1,0 +1,6 @@
+D:\RAZNI\C#\Emploeys\Emploeys\obj\Debug\Emploeys.csprojResolveAssemblyReference.cache
+D:\RAZNI\C#\Emploeys\Emploeys\bin\Debug\Emploeys.exe.config
+D:\RAZNI\C#\Emploeys\Emploeys\bin\Debug\Emploeys.exe
+D:\RAZNI\C#\Emploeys\Emploeys\bin\Debug\Emploeys.pdb
+D:\RAZNI\C#\Emploeys\Emploeys\obj\Debug\Emploeys.exe
+D:\RAZNI\C#\Emploeys\Emploeys\obj\Debug\Emploeys.pdb
