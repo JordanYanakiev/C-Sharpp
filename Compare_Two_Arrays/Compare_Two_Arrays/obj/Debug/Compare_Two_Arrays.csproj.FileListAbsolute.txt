@@ -1,0 +1,6 @@
+D:\RAZNI\C#\BOOK_EXAMPLE\Compare_Two_Arrays\Compare_Two_Arrays\bin\Debug\Compare_Two_Arrays.exe.config
+D:\RAZNI\C#\BOOK_EXAMPLE\Compare_Two_Arrays\Compare_Two_Arrays\bin\Debug\Compare_Two_Arrays.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\Compare_Two_Arrays\Compare_Two_Arrays\bin\Debug\Compare_Two_Arrays.pdb
+D:\RAZNI\C#\BOOK_EXAMPLE\Compare_Two_Arrays\Compare_Two_Arrays\obj\Debug\Compare_Two_Arrays.csprojResolveAssemblyReference.cache
+D:\RAZNI\C#\BOOK_EXAMPLE\Compare_Two_Arrays\Compare_Two_Arrays\obj\Debug\Compare_Two_Arrays.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\Compare_Two_Arrays\Compare_Two_Arrays\obj\Debug\Compare_Two_Arrays.pdb
