@@ -1,0 +1,6 @@
+D:\RAZNI\C#\BOOK_EXAMPLE\GetMaxNumber\GetMaxNumber\bin\Debug\GetMaxNumber.exe.config
+D:\RAZNI\C#\BOOK_EXAMPLE\GetMaxNumber\GetMaxNumber\bin\Debug\GetMaxNumber.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\GetMaxNumber\GetMaxNumber\bin\Debug\GetMaxNumber.pdb
+D:\RAZNI\C#\BOOK_EXAMPLE\GetMaxNumber\GetMaxNumber\obj\Debug\GetMaxNumber.csprojResolveAssemblyReference.cache
+D:\RAZNI\C#\BOOK_EXAMPLE\GetMaxNumber\GetMaxNumber\obj\Debug\GetMaxNumber.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\GetMaxNumber\GetMaxNumber\obj\Debug\GetMaxNumber.pdb
