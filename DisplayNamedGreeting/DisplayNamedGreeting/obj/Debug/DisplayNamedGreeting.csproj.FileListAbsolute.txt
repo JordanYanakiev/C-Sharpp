@@ -1,0 +1,6 @@
+D:\RAZNI\C#\BOOK_EXAMPLE\DisplayNamedGreeting\DisplayNamedGreeting\obj\Debug\DisplayNamedGreeting.csprojResolveAssemblyReference.cache
+D:\RAZNI\C#\BOOK_EXAMPLE\DisplayNamedGreeting\DisplayNamedGreeting\bin\Debug\DisplayNamedGreeting.exe.config
+D:\RAZNI\C#\BOOK_EXAMPLE\DisplayNamedGreeting\DisplayNamedGreeting\bin\Debug\DisplayNamedGreeting.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\DisplayNamedGreeting\DisplayNamedGreeting\bin\Debug\DisplayNamedGreeting.pdb
+D:\RAZNI\C#\BOOK_EXAMPLE\DisplayNamedGreeting\DisplayNamedGreeting\obj\Debug\DisplayNamedGreeting.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\DisplayNamedGreeting\DisplayNamedGreeting\obj\Debug\DisplayNamedGreeting.pdb
