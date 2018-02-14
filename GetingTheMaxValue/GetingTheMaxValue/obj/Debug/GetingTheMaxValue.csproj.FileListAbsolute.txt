@@ -1,0 +1,5 @@
+D:\RAZNI\C#\BOOK_EXAMPLE\GetingTheMaxValue\GetingTheMaxValue\bin\Debug\GetingTheMaxValue.exe.config
+D:\RAZNI\C#\BOOK_EXAMPLE\GetingTheMaxValue\GetingTheMaxValue\bin\Debug\GetingTheMaxValue.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\GetingTheMaxValue\GetingTheMaxValue\bin\Debug\GetingTheMaxValue.pdb
+D:\RAZNI\C#\BOOK_EXAMPLE\GetingTheMaxValue\GetingTheMaxValue\obj\Debug\GetingTheMaxValue.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\GetingTheMaxValue\GetingTheMaxValue\obj\Debug\GetingTheMaxValue.pdb
