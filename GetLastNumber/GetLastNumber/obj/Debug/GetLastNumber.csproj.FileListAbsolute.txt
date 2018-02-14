@@ -1,0 +1,6 @@
+D:\RAZNI\C#\BOOK_EXAMPLE\GetLastNumber\GetLastNumber\obj\Debug\GetLastNumber.csprojResolveAssemblyReference.cache
+D:\RAZNI\C#\BOOK_EXAMPLE\GetLastNumber\GetLastNumber\bin\Debug\GetLastNumber.exe.config
+D:\RAZNI\C#\BOOK_EXAMPLE\GetLastNumber\GetLastNumber\bin\Debug\GetLastNumber.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\GetLastNumber\GetLastNumber\bin\Debug\GetLastNumber.pdb
+D:\RAZNI\C#\BOOK_EXAMPLE\GetLastNumber\GetLastNumber\obj\Debug\GetLastNumber.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\GetLastNumber\GetLastNumber\obj\Debug\GetLastNumber.pdb
