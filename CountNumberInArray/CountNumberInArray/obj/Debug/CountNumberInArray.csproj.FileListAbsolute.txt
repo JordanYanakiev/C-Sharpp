@@ -1,0 +1,6 @@
+D:\RAZNI\C#\BOOK_EXAMPLE\CountNumberInArray\CountNumberInArray\obj\Debug\CountNumberInArray.csprojResolveAssemblyReference.cache
+D:\RAZNI\C#\BOOK_EXAMPLE\CountNumberInArray\CountNumberInArray\bin\Debug\CountNumberInArray.exe.config
+D:\RAZNI\C#\BOOK_EXAMPLE\CountNumberInArray\CountNumberInArray\bin\Debug\CountNumberInArray.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\CountNumberInArray\CountNumberInArray\bin\Debug\CountNumberInArray.pdb
+D:\RAZNI\C#\BOOK_EXAMPLE\CountNumberInArray\CountNumberInArray\obj\Debug\CountNumberInArray.exe
+D:\RAZNI\C#\BOOK_EXAMPLE\CountNumberInArray\CountNumberInArray\obj\Debug\CountNumberInArray.pdb
