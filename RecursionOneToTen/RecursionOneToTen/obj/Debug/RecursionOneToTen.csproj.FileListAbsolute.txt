@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\obj\Debug\RecursionOneToTen.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\obj\Debug\RecursionOneToTen.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\bin\Debug\RecursionOneToTen.exe.config
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\bin\Debug\RecursionOneToTen.exe
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\bin\Debug\RecursionOneToTen.pdb
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\obj\Debug\RecursionOneToTen.exe
+C:\(D)\RAZNI\C# PROJECTS\RecursionOneToTen\RecursionOneToTen\obj\Debug\RecursionOneToTen.pdb

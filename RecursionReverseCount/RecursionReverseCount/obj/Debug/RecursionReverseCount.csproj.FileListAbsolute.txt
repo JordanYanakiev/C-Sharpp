@@ -1,0 +1,6 @@
+C:\(D)\RAZNI\C# PROJECTS\RecursionReverseCount\RecursionReverseCount\obj\Debug\RecursionReverseCount.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\RecursionReverseCount\RecursionReverseCount\bin\Debug\RecursionReverseCount.exe.config
+C:\(D)\RAZNI\C# PROJECTS\RecursionReverseCount\RecursionReverseCount\bin\Debug\RecursionReverseCount.exe
+C:\(D)\RAZNI\C# PROJECTS\RecursionReverseCount\RecursionReverseCount\bin\Debug\RecursionReverseCount.pdb
+C:\(D)\RAZNI\C# PROJECTS\RecursionReverseCount\RecursionReverseCount\obj\Debug\RecursionReverseCount.exe
+C:\(D)\RAZNI\C# PROJECTS\RecursionReverseCount\RecursionReverseCount\obj\Debug\RecursionReverseCount.pdb

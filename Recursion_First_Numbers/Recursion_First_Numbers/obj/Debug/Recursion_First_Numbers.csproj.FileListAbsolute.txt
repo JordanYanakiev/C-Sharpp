@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\bin\Debug\Recursion_First_Numbers.exe.config
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\bin\Debug\Recursion_First_Numbers.exe
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\bin\Debug\Recursion_First_Numbers.pdb
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\obj\Debug\Recursion_First_Numbers.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\obj\Debug\Recursion_First_Numbers.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\obj\Debug\Recursion_First_Numbers.exe
+C:\(D)\RAZNI\C# PROJECTS\Recursion_First_Numbers\Recursion_First_Numbers\obj\Debug\Recursion_First_Numbers.pdb

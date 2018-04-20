@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\bin\Debug\LeapYear.exe.config
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\obj\Debug\LeapYear.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\obj\Debug\LeapYear.exe
+C:\(D)\RAZNI\C# PROJECTS\LeapYear\LeapYear\obj\Debug\LeapYear.pdb
