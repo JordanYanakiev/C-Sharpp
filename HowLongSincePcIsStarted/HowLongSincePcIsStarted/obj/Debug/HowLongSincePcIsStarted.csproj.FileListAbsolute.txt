@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\bin\Debug\HowLongSincePcIsStarted.exe.config
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\bin\Debug\HowLongSincePcIsStarted.exe
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\bin\Debug\HowLongSincePcIsStarted.pdb
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\obj\Debug\HowLongSincePcIsStarted.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\obj\Debug\HowLongSincePcIsStarted.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\obj\Debug\HowLongSincePcIsStarted.exe
+C:\(D)\RAZNI\C# PROJECTS\HowLongSincePcIsStarted\HowLongSincePcIsStarted\obj\Debug\HowLongSincePcIsStarted.pdb
