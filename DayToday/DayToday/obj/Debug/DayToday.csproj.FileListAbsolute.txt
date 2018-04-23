@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\obj\Debug\DayToday.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\obj\Debug\DayToday.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\bin\Debug\DayToday.exe.config
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\bin\Debug\DayToday.exe
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\bin\Debug\DayToday.pdb
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\obj\Debug\DayToday.exe
+C:\(D)\RAZNI\C# PROJECTS\DayToday\DayToday\obj\Debug\DayToday.pdb
