@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\bin\Debug\HypotenuseCalculation.exe.config
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\bin\Debug\HypotenuseCalculation.exe
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\bin\Debug\HypotenuseCalculation.pdb
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\obj\Debug\HypotenuseCalculation.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\obj\Debug\HypotenuseCalculation.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\obj\Debug\HypotenuseCalculation.exe
+C:\(D)\RAZNI\C# PROJECTS\HypotenuseCalculation\HypotenuseCalculation\obj\Debug\HypotenuseCalculation.pdb
