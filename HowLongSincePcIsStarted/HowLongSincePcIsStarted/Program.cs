@@ -25,7 +25,7 @@ namespace HowLongSincePcIsStarted
             int minutesLeftover = minutes % 60;
             int days = hours / 24;
             int hoursLeftover = hours % 24;
-            Console.WriteLine(days + "d " + hours + "h " + minutesLeftover + "m " + secondsLeftover + "s ");
+            Console.WriteLine(days + "d " + hoursLeftover + "h " + minutesLeftover + "m " + secondsLeftover + "s ");
             
         }
     }
