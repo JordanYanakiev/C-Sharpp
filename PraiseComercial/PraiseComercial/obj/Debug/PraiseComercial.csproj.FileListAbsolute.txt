@@ -1,0 +1,7 @@
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\bin\Debug\PraiseComercial.exe.config
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\bin\Debug\PraiseComercial.exe
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\bin\Debug\PraiseComercial.pdb
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\obj\Debug\PraiseComercial.csprojResolveAssemblyReference.cache
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\obj\Debug\PraiseComercial.csproj.CoreCompileInputs.cache
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\obj\Debug\PraiseComercial.exe
+c:\users\ioni\source\repos\PraiseComercial\PraiseComercial\obj\Debug\PraiseComercial.pdb
