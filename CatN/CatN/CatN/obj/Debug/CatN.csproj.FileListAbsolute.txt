@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\bin\Debug\CatN.exe.config
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\bin\Debug\CatN.exe
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\bin\Debug\CatN.pdb
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\obj\Debug\CatN.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\obj\Debug\CatN.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\obj\Debug\CatN.exe
+C:\(D)\RAZNI\C# PROJECTS\CatN\CatN\CatN\obj\Debug\CatN.pdb
