@@ -1,0 +1,7 @@
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\obj\Debug\ExceptionTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\obj\Debug\ExceptionTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\bin\Debug\ExceptionTutorial.exe.config
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\bin\Debug\ExceptionTutorial.exe
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\bin\Debug\ExceptionTutorial.pdb
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\obj\Debug\ExceptionTutorial.exe
+C:\Users\Ioni\source\repos\ExceptionTutorial\ExceptionTutorial\obj\Debug\ExceptionTutorial.pdb
