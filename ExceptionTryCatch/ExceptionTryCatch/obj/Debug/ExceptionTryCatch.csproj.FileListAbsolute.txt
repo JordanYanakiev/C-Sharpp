@@ -1,0 +1,7 @@
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\ExceptionTryCatch.csprojResolveAssemblyReference.cache
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\ExceptionTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\ExceptionTryCatch.exe.config
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\ExceptionTryCatch.exe
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\bin\Debug\ExceptionTryCatch.pdb
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\ExceptionTryCatch.exe
+C:\Users\Ioni\source\repos\ExceptionTryCatch\ExceptionTryCatch\obj\Debug\ExceptionTryCatch.pdb
