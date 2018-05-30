@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\bin\Debug\ReadNumberException.exe.config
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\bin\Debug\ReadNumberException.exe
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\bin\Debug\ReadNumberException.pdb
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\obj\Debug\ReadNumberException.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\obj\Debug\ReadNumberException.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\obj\Debug\ReadNumberException.exe
+C:\(D)\RAZNI\C# PROJECTS\ReadNumberException\ReadNumberException\obj\Debug\ReadNumberException.pdb
