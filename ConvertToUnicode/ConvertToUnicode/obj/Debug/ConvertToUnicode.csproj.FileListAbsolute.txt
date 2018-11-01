@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\bin\Debug\ConvertToUnicode.exe.config
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\bin\Debug\ConvertToUnicode.exe
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\bin\Debug\ConvertToUnicode.pdb
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.exe
+C:\(D)\RAZNI\C# PROJECTS\ConvertToUnicode\ConvertToUnicode\obj\Debug\ConvertToUnicode.pdb
