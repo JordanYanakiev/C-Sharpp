@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\bin\Debug\StudentExcercise.exe.config
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\bin\Debug\StudentExcercise.exe
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\bin\Debug\StudentExcercise.pdb
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\obj\Debug\StudentExcercise.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\obj\Debug\StudentExcercise.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\obj\Debug\StudentExcercise.exe
+C:\(D)\RAZNI\C# PROJECTS\StudentExcercise\StudentExcercise\obj\Debug\StudentExcercise.pdb
