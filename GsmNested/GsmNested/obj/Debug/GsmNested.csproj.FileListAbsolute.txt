@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\bin\Debug\GsmNested.exe.config
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\bin\Debug\GsmNested.exe
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\bin\Debug\GsmNested.pdb
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\obj\Debug\GsmNested.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\obj\Debug\GsmNested.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\obj\Debug\GsmNested.exe
+C:\(D)\RAZNI\C# PROJECTS\GsmNested\GsmNested\obj\Debug\GsmNested.pdb
