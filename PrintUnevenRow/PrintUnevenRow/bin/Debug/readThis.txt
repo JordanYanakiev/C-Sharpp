@@ -1,0 +1,7 @@
+You have to print this line.
+This not.
+This should .
+This one is left behind.
+This one is for the console.
+Skip this.
+Print this.

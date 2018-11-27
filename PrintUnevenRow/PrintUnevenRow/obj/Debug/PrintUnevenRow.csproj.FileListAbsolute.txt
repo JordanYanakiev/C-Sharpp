@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\bin\Debug\PrintUnevenRow.exe.config
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\bin\Debug\PrintUnevenRow.exe
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\bin\Debug\PrintUnevenRow.pdb
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\obj\Debug\PrintUnevenRow.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\obj\Debug\PrintUnevenRow.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\obj\Debug\PrintUnevenRow.exe
+C:\(D)\RAZNI\C# PROJECTS\PrintUnevenRow\PrintUnevenRow\obj\Debug\PrintUnevenRow.pdb
