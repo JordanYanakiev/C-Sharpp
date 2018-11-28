@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\bin\Debug\CombineIntoOneFile.exe.config
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\bin\Debug\CombineIntoOneFile.exe
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\bin\Debug\CombineIntoOneFile.pdb
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\obj\Debug\CombineIntoOneFile.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\obj\Debug\CombineIntoOneFile.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\obj\Debug\CombineIntoOneFile.exe
+C:\(D)\RAZNI\C# PROJECTS\CombineIntoOneFile\CombineIntoOneFile\obj\Debug\CombineIntoOneFile.pdb
