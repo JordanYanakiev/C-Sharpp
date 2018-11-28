@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\bin\Debug\CaseChangeAtCertainWord.exe.config
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\bin\Debug\CaseChangeAtCertainWord.exe
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\bin\Debug\CaseChangeAtCertainWord.pdb
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\obj\Debug\CaseChangeAtCertainWord.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\obj\Debug\CaseChangeAtCertainWord.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\obj\Debug\CaseChangeAtCertainWord.exe
+C:\(D)\RAZNI\C# PROJECTS\CaseChangeAtCertainWord\CaseChangeAtCertainWord\obj\Debug\CaseChangeAtCertainWord.pdb
