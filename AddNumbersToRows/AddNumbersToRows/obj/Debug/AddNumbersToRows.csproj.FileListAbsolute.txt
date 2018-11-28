@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\bin\Debug\AddNumbersToRows.exe.config
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\bin\Debug\AddNumbersToRows.exe
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\bin\Debug\AddNumbersToRows.pdb
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\obj\Debug\AddNumbersToRows.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\obj\Debug\AddNumbersToRows.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\obj\Debug\AddNumbersToRows.exe
+C:\(D)\RAZNI\C# PROJECTS\AddNumbersToRows\AddNumbersToRows\obj\Debug\AddNumbersToRows.pdb
