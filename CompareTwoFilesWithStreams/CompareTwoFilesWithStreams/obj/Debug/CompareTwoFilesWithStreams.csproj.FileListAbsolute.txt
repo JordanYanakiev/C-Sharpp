@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\bin\Debug\CompareTwoFilesWithStreams.exe.config
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\bin\Debug\CompareTwoFilesWithStreams.exe
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\bin\Debug\CompareTwoFilesWithStreams.pdb
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\obj\Debug\CompareTwoFilesWithStreams.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\obj\Debug\CompareTwoFilesWithStreams.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\obj\Debug\CompareTwoFilesWithStreams.exe
+C:\(D)\RAZNI\C# PROJECTS\CompareTwoFilesWithStreams\CompareTwoFilesWithStreams\obj\Debug\CompareTwoFilesWithStreams.pdb
