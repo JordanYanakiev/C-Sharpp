@@ -1,0 +1,7 @@
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\bin\Debug\ListOfNumbersCalculation.exe.config
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\bin\Debug\ListOfNumbersCalculation.exe
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\bin\Debug\ListOfNumbersCalculation.pdb
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\obj\Debug\ListOfNumbersCalculation.csprojResolveAssemblyReference.cache
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\obj\Debug\ListOfNumbersCalculation.csproj.CoreCompileInputs.cache
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\obj\Debug\ListOfNumbersCalculation.exe
+C:\(D)\RZNI\ASP.NET projects\ListOfNumbersCalculation\ListOfNumbersCalculation\obj\Debug\ListOfNumbersCalculation.pdb
