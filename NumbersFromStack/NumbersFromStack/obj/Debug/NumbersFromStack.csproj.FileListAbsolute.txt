@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\obj\Debug\NumbersFromStack.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\obj\Debug\NumbersFromStack.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\bin\Debug\NumbersFromStack.exe.config
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\bin\Debug\NumbersFromStack.exe
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\bin\Debug\NumbersFromStack.pdb
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\obj\Debug\NumbersFromStack.exe
+C:\(D)\RAZNI\C# PROJECTS\NumbersFromStack\NumbersFromStack\obj\Debug\NumbersFromStack.pdb
