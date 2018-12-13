@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\bin\Debug\SortNumbersFromList.exe.config
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\bin\Debug\SortNumbersFromList.exe
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\bin\Debug\SortNumbersFromList.pdb
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\obj\Debug\SortNumbersFromList.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\obj\Debug\SortNumbersFromList.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\obj\Debug\SortNumbersFromList.exe
+C:\(D)\RAZNI\C# PROJECTS\SortNumbersFromList\SortNumbersFromList\obj\Debug\SortNumbersFromList.pdb
