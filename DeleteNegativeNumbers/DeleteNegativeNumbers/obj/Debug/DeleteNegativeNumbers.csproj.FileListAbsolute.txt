@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\obj\Debug\DeleteNegativeNumbers.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\obj\Debug\DeleteNegativeNumbers.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\bin\Debug\DeleteNegativeNumbers.exe.config
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\bin\Debug\DeleteNegativeNumbers.exe
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\bin\Debug\DeleteNegativeNumbers.pdb
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\obj\Debug\DeleteNegativeNumbers.exe
+C:\(D)\RAZNI\C# PROJECTS\DeleteNegativeNumbers\DeleteNegativeNumbers\obj\Debug\DeleteNegativeNumbers.pdb
