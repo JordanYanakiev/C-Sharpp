@@ -1,0 +1,7 @@
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\bin\Debug\CreateFormula.exe.config
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\bin\Debug\CreateFormula.exe
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\bin\Debug\CreateFormula.pdb
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\obj\Debug\CreateFormula.csprojResolveAssemblyReference.cache
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\obj\Debug\CreateFormula.csproj.CoreCompileInputs.cache
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\obj\Debug\CreateFormula.exe
+C:\(D)\RAZNI\C# PROJECTS\CreateFormula\CreateFormula\obj\Debug\CreateFormula.pdb
